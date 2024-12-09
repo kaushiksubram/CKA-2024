@@ -7,7 +7,7 @@ Note: If you found the content helpful, consider giving the repository a star тн
 **Checkout this [file](https://github.com/piyushsachdeva/CKA-2024/blob/main/%2340daysofkubernetes.md) for the #40daysofkubernetes challenge details**
 
 ### Day0: Intro to the series
-[![Course Introduction](https://img.youtube.com/vi/6_gMoe7Ik8k/sddefault.jpg)](https://youtu.be/6_gMoe7Ik8k)
+[![Course Introduction]](https://youtu.be/6_gMoe7Ik8k)
 - Course Introduction
 - Discord community server for assistance
 - Live QnA sessions every weekend
